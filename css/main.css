@@ -1,0 +1,111 @@
+body,html,#editor,#topbar,#terminal{
+	margin:0px;
+	padding:0px;
+	/*
+	 * Clear Padding and margin
+	 */
+}
+body,html{
+    overflow-y:scroll;
+    overflow-x:visible;
+}
+#topbar,#bar,#pbar{
+	height:30px;
+	font-family:"Ubuntu","Calibri","Segoe UI","Microsoft Yahei UI";
+	font-size:24px;
+	line-height:30px;
+	width:100%;
+	color:white;
+	background:-webkit-linear-gradient(90deg,#444,#111);
+	position:relative;
+}
+#topbar #bar,#topbar #buttons,#pbar{
+	height:30px;
+	margin:0px;
+	padding:0px;
+	line-height:30px;
+	position: fixed;
+	z-index:100;
+    display:inline-block;
+}
+#bar{
+	width:-webkit-calc(100% - 90px) !important;
+    -webkit-app-region:drag;
+    --webkit-user-select: none;
+}
+#buttons{
+	width:90px;
+    position:absolute;
+    right:-9px;
+    top:0px;
+}
+#buttons button{
+	opacity:0.6;
+	transition: all .1s ease;
+    width:30px;
+    height:30px;
+    border:none;
+    margin-left:-6px;
+}
+#closial:before{
+	content:"";
+	background: url("icons/iconClose.svg");
+	display:block;
+	position: absolute;
+	height: 30px;
+	width:30px;
+	right:7px;
+	top:0px;
+}
+#minimal:before{
+	content:"";
+	background: url("icons/iconMin.svg");
+	display:block;
+	position: absolute;
+	height: 30px;
+	width:30px;
+	right:67px;
+	top:0px;
+	z-index: 102;
+}
+#maximal:before{
+	content:"";
+	background: url("icons/iconMax.svg");
+	display:block;
+	position: absolute;
+	height: 30px;
+	width:30px;
+	right:36px;
+	top:0px;
+	z-index: 102;
+}
+#buttons button:hover{
+	opacity:0.8;
+	background:#444;
+}
+#buttons #closial:hover{
+	background:#922;
+}
+#terminal,#editor{
+	width:100%;
+	/*width full*/
+}
+#editor{
+	position:relative;
+	height:700px;
+	font-size:16px;
+	/*editor size*/
+}
+#terminal{
+	height:200px;
+	font-size:15px;
+	/*Terminal size*/
+}
+button:focus{
+	outline:none;
+	/*Remove WebKit defined style*/
+}
+#wrapper{
+	overflow:hidden;
+	height:900px;
+}

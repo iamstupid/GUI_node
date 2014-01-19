@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rename",
+				"fs.rename(oldPath, newPath, callback);"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"font-f",
+				"font-family:   (property)"
+			],
+			[
+				"ini",
+				"initialPointer"
+			],
+			[
+				"test",
+				"testConfig"
+			],
+			[
+				"prot",
+				"prototype  (variable)"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-left-color"
+			],
+			[
+				"padding-l",
+				"padding-left:   (property)"
+			],
+			[
+				"border-left",
+				"border-left-width"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"ta",
+				"tabTrigger"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"Arr",
+				"Array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"set syntax:Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax:JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"set syntax:an",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: <base>"
+			],
+			[
+				"set syntax:",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set syntax:java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib3,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Users/tommy/Documents/GitHub/iamstupid.github.io/script/r.js.css",
+		"/C/node webkit/terminal/noder/fileSystem.js",
+		"/C/node webkit/terminal/index.htm",
+		"/C/node webkit/terminal/main/main.css",
+		"/C/node webkit/terminal/worker/workerUtils.js",
+		"/C/node webkit/terminal/main/cmd.js",
+		"/C/node webkit/terminal/main/cmdList.js",
+		"/C/Obtux/obml/obmlapp1.obm",
+		"/C/node webkit/terminal/worker/worker.js",
+		"/C/node-webkit-ace-editor-master/index.html",
+		"/E/Users/tommy/Documents/GitHub/iamstupid.github.io/index.htm",
+		"/E/Users/tommy/Documents/GitHub/iamstupid.github.io/script/r.js",
+		"/C/Obtux/s/c.js",
+		"/C/node webkit/terminal/itd/doc.js",
+		"/C/Obtux/sh/syntaxhighlighter_3.0.83/src/shCore.js",
+		"/C/Obtux/css/style.css",
+		"/C/Obtux/pages/modules/obmath.htm",
+		"/C/Obtux/pages/modules/obmath.future.htm",
+		"/C/Obtux/s/g.js",
+		"/C/Obtux/index.htm",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/jq.js",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/d.sublime-snippet",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/c.sublime-snippet",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/a.sublime-snippet",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/b.sublime-snippet",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/HTML 5.sublime-settings",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/Data/Packages/User/HTML.sublime-settings",
+		"/D/TDDOWNLOAD/Sublime Text Build 3047/codeintelhelp.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"});",
+			"\">\n",
+			"u",
+			"mod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

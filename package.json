@@ -1,0 +1,12 @@
+{
+    "main":"index.htm",
+    "name":"GUI node",
+    "window":{
+        "toolbar":false,
+        "frame":false,
+        "min_width":400,
+        "min_height":400,
+        "width":800,
+        "height":600
+    }
+}
